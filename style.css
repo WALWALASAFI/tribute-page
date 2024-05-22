@@ -1,5 +1,5 @@
-.body {
-  color: rgb(219, 179, 192);
+body {
+  color: rgb(198, 178, 185);
   width: auto;
   text-align: center;
 }
@@ -14,4 +14,9 @@ p {
   color: black;
   text-align: center;
   font-size: medium;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
