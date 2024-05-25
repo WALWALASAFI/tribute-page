@@ -21,16 +21,16 @@ img {
   height: auto;
 }
 
-    #main {
-    text-align: center;
-    }
-    #img-div {
-    display: inline-block;
-    }
-    #image {
-      max-width: 100%;
-      height: auto;
-      display: block; 
-      margin: 0 auto; 
-    }
+#main {
+  text-align: center;
+}
+#img-div {
+  display: inline-block;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block; 
+  margin: 0 auto; 
+}
  
