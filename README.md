@@ -3,6 +3,8 @@
 
 this is a tribute-page project.product_landing_page. it is  about Malala Yousafzai, who spoke out against the Tehrik-e-Taliban Pakistan's ban on the education of girls. 💙
 
+✔👌Demo link(https://walwalasafi.github.io/tribute-page/)
+
 
 Demo 📸
 ![Screenshot](<images/malala image.jpg>)
